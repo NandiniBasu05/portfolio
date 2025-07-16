@@ -1,5 +1,5 @@
 import React from 'react'
-import EducationText from './educationText'
+import EducationText from './EducationText'
 import { education } from './EducationInfo'
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
