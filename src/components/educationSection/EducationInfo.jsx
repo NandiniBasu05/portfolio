@@ -1,6 +1,6 @@
 export const education = [{
       id: 1,
-      img: "../../public/images/uni.png",
+      img: "/images/uni.png",
       school: "Kalinga Institute of Industrial Technology, Bhubaneswar",
       date: "July 2023 - Present",
       grade: "8.60(Till 4th semester)",
@@ -9,7 +9,7 @@ export const education = [{
     },
     {
       id: 2,
-      img: "../../public/images/school.jpg",
+      img: "/images/school.jpg",
       school: "Satish Chandra Memorial School, Chakdaha",
       date: "Apr 2022 - March 2023",
       grade: "75%",
@@ -18,7 +18,7 @@ export const education = [{
     },
     {
       id: 3,
-      img: "../../public/images/school.jpg",
+      img: "/images/school.jpg",
       school: "Satish Chandra Memorial School, Chakdaha",
       date: "Apr 2020 - March 2021",
       grade: "84%",
