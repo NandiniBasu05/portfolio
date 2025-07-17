@@ -14,7 +14,7 @@ export const education = [{
       date: "Apr 2022 - March 2023",
       grade: "75%",
       desc: "I completed my class 12 education from Satish Chandra Memorial School, Chakdaha, under the CBSE board, where I studied Physics, Chemistry, Mathematics and Biology (PCMB).",
-      degree: "CBSE(XII) - PCMB",
+      degree: "CBSE(XII), PCMB",
     },
     {
       id: 3,
